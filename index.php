@@ -103,7 +103,31 @@
                     <p class="text-gray-700">Create beauty illustrasion as you need, and make it interesting</p>
                 </div>
             </div>
+        </div>
+    </section>
+    <div class="px-4 py-3 md:px-28 md:py-11">
+    <section class="Projects">
+            <p class="text-gray-700 mt-6 md:text-lg">Our Portofolio</p>
+            <h5 class="font-semibold text-2xl md:text-4xl md:mb-2">Recent Projects</h5>
+            <div class="flex overflow-x-scroll whitespace-nowrap scroll scroll-smooth md:block md:flex md:grid md:grid-cols-3 md:gap-10">
+                <div class="mt-6">
+                    <img class="rounded-md md:rounded-none" src="assets/hospital.svg" alt="">
+                    <h5 class="font-semibold text-xl mt-4">Website My Hospital</h5>
+                    <p class="text-gray-700 mt-3 mr-28">Create a hospital website with patient,<br> doctor, and drug logistics features that<br> help hospital operations</p>
+                </div>
+                <div class="mt-6">
+                    <img class="rounded-md md:rounded-none" src="assets/food.svg" alt="">
+                    <h5 class="font-semibold text-xl mt-4">Food & Beverages Corp Logo</h5>
+                    <p class="text-gray-700 mt-3 mr-28">Create a logo for a food & beverage<br> company, with emphasis on aesthetics<br> and user requests</p>
+                </div>
+                <div class="mt-6">
+                    <img class="rounded-md md:rounded-none" src="assets/fruit.svg" alt="">
+                    <h5 class="font-semibold text-xl mt-4">Supermarket Mobile Apps</h5>
+                    <p class="text-gray-700 mt-3 mr-28">Develop mobile applications for<br> supermarkets with buy, auto-pay, and<br> marketplace features</p>
+                </div>
+            </div>
         </section>
+    <section></section>
     </div>
 </div>
 </body>
