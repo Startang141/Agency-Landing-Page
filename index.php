@@ -127,7 +127,45 @@
                 </div>
             </div>
         </section>
-    <section></section>
+    <section class="review">
+        <p class="text-gray-700 mt-14 text-center md:text-left md:text-lg md:mt-20">Client Reviews</p>
+        <h5 class="font-semibold text-2xl text-center md:text-left md:text-4xl md:mb-2">What Our Happy Say About Us</h5>
+        <div class="flex overflow-x-scroll whitespace-nowrap scroll scroll-smooth md:block md:flex md:grid md:grid-cols-3 md:gap-10">
+            <div class="border border-2 border-black mt-6 p-3 mr-7">
+                <h4 class="font-semibold">Website My Hospital</h4>
+                <p class="text-gray-700 mt-2">Very nice to work with Bubble Bash, a <br> reliable and responsive team is very <br> helpful</p>
+                <div class="flex items-center mt-4">
+                    <img src="assets/prof-pic1.svg" alt="">
+                    <div class="ml-5">
+                        <h4 class="font-semibold">Katty Clock</h4>
+                        <p class="text-gray-700 font-medium">CEO My Hospital</p>
+                    </div>
+                </div>
+            </div>
+            <div class="border border-2 border-black mt-6 p-3 mr-7">
+                <h4 class="font-semibold">Logo F&B Corp</h4>
+                <p class="text-gray-700 mt-2">Really the best service we've ever<br> gotten, really looking forward to the<br>next project</p>
+                <div class="flex items-center mt-4">
+                    <img src="assets/prof-pic2.svg" alt="">
+                    <div class="ml-5">
+                        <h4 class="font-semibold">John Robert</h4>
+                        <p class="text-gray-700 font-medium">CEO My Hospital</p>
+                    </div>
+                </div>
+            </div>
+            <div class="border border-2 border-black mt-6 p-3 mr-7">
+                <h4 class="font-semibold">Supermarket Mobile Apps</h4>
+                <p class="text-gray-700 mt-2">The best developer team ever, it's a <br> lot of fun working. Maybe work together<br> again on the next project?</p>
+                <div class="flex items-center mt-4">
+                    <img src="assets/prof-pic3.svg" alt="">
+                    <div class="ml-5">
+                        <h4 class="font-semibold">Katty Clock</h4>
+                        <p class="text-gray-700 font-medium">CEO My Hospital</p>
+                    </div>
+                </div>
+            </div>    
+        </div>
+    </section>
     </div>
 </div>
 </body>
