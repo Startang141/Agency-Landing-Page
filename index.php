@@ -65,15 +65,46 @@
             </div>
         </div>
     </section>
-    <section class="services">
-        <div>
-            <p>Our Services</p>
-            <h3>We Provide What You Need</h3>
-            <div>
-
+</div>
+<section class="services">
+    <div class="bg-[#f9f9f9] text-center">
+        <div class="px-4 py-3 mt-64 md:mt-[500px] md:px-28 md:py-11">
+            <p class="text-gray-700 mt-6 md:text-left md:text-lg">Our Services</p>
+            <h3 class="font-semibold text-2xl md:text-left md:text-3xl">We Provide What You Need</h3>
+            <div class="md:grid md:grid-cols-3 md:gap-7 ">
+                <div class="bg-white text-center px-4 py-5 mt-6 shadow-lg md:py-8 md:px-8">
+                    <img src="assets/FigmaLogo.svg" class="mx-auto" alt="">
+                    <h5 class="font-semibold my-3">UI/UX Designer</h5>
+                    <p class="text-gray-700">We are ready to make your website more friendly and efficient in the eyes of users</p>
+                </div>
+                <div class="bg-white text-center px-4 py-5 mt-6 shadow-lg md:py-8 md:px-8">
+                    <img src="assets/code.svg" class="mx-auto" alt="">
+                    <h5 class="font-semibold my-3">Web Development</h5>
+                    <p class="text-gray-700">Want to create a website that has many features? We have the answer for you</p>
+                </div>
+                <div class="bg-white text-center px-4 py-5 mt-6 shadow-lg md:py-8 md:px-8">
+                    <img src="assets/ArticleMedium.svg" class="mx-auto" alt="">
+                    <h5 class="font-semibold my-3">Content Writer</h5>
+                    <p class="text-gray-700">We provide interesting content and can attract customers for you</p>
+                </div>
+                <div class="bg-white text-center px-4 py-5 mt-6 shadow-lg md:py-8 md:px-8">
+                    <img src="assets/PresentationChart.svg" class="mx-auto" alt="">
+                    <h5 class="font-semibold my-3">Branding</h5>
+                    <p class="text-gray-700">Create visual branding with amazing result, you just sit back and relax</p>
+                </div>
+                <div class="bg-white text-center px-4 py-5 mt-6 shadow-lg md:py-8 md:px-8">
+                    <img src="assets/VideoCamera.svg" class="mx-auto" alt="">
+                    <h5 class="font-semibold my-3">Editing Video</h5>
+                    <p class="text-gray-700">Want to create a website that has many features? We have the answer for you. </p>
+                </div>
+                <div class="bg-white text-center px-4 py-5 mt-6 shadow-lg md:py-8 md:px-8">
+                    <img src="assets/PenNib.svg" class="mx-auto" alt="">
+                    <h5 class="font-semibold my-3">Illustration</h5>
+                    <p class="text-gray-700">Create beauty illustrasion as you need, and make it interesting</p>
+                </div>
             </div>
-        </div>
-    </section>
+        </section>
     </div>
+</div>
 </body>
 </html>
