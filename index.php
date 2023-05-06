@@ -169,11 +169,11 @@
     </div>
 </div>
 <section class="Contact Us">
-    <div class="mt-20 bg-[#2F6B4F] px-4 py-3 text-center">
-        <img class="absolute h-[30%] -mt-3" src="assets/asset2.svg" alt="">
-        <h3 class="font-semibold text-white text-2xl leading-7 mt-4">Have a project idea and want to make it come true?</h3>
-        <p class="text-gray-200 text-xs mx-auto mt-2 w-3/4">Please contact us and we will discuss about your project, don't forget we are always here for you</p>
-        <div class="bg-white flex justify-center items-center pl-2 pr-1 py-2 w-48 mx-auto mt-6 md:mt-12 md:py-4">
+    <div class="mt-20 bg-[#2F6B4F] px-4 py-3 text-center md:px-28 md:py-11">
+        <img class="absolute h-[30%] -mt-3 md:h-[67%] md:-mt-11 md:-ml-32" src="assets/asset2.svg" alt="">
+        <h3 class="font-semibold text-white text-2xl leading-7 mt-4 md:text-5xl md:w-[57%] mx-auto md:leading-normal">Have a project idea and want to make it come true?</h3>
+        <p class="text-gray-200 text-xs mx-auto mt-2 w-3/4 md:text-lg md:w-[55%]">Please contact us and we will discuss about your project, don't forget we are always here for you</p>
+        <div class="bg-white flex justify-center items-center pl-2 pr-1 py-2 w-48 mx-auto mt-6 md:mt-6 md:py-4">
             <a href="" class="font-bold text-lg">Get Started</a>
             <img class="ml-2" src="assets/arrowRight.svg" alt="">
         </div>
